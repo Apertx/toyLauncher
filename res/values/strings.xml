@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="app_name">ToyLauncher</string>
+ <string name="grid_width">Horizontal grid</string>
+ <string name="grid_height">Vertical grid</string>
+ <string name="color_fg">Label color</string>
+ <string name="color_bg">Background color</string>
+</resources>
